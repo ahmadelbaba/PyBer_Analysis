@@ -14,7 +14,7 @@
 
 ## Total Fare by City Type:
 
-![Line Graph](/analysis/Total_Fare_by_City_Type.png)
+![Line Graph](/analysis/Challenge_fare_summary.png)
 
 ## Results:
 
@@ -22,5 +22,5 @@
 
 ## Recommendations:
 - Adjust fare by demand to accomodate for variability in ridesharing
-- Adjust fare by city type 
+- Adjust fare by city type (e.g. lower the fare in urban or rural cities)
 - Sign up more drivers in rural and suburban cities
